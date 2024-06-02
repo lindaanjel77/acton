@@ -1,6 +1,6 @@
 {
   "name": "acton",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -61,7 +61,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lindaanjel77/acton.git"
+    "url": "git+https://github.com/lindaanjel77/acton.git"
   },
   "author": "",
   "license": "ISC",
